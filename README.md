@@ -7,6 +7,10 @@ Uruchomienie narzędzia
 ```
 s7poll <ADRES IP> <PARAMETRY>
 ```
+Przykład
+```
+s7poll 127.0.0.1 -db 107 -r 0 -s 2 -p 0 -i 10 -int -1
+```
 
 Parametr | Opis | Domyslnie
 --- | --- | ---
