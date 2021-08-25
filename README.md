@@ -18,7 +18,7 @@ adres IP | Adres IP PLC | ---
 -p | Początkowy adres danych | 0
 -i | Ilość danych do wyświetlenia | 5
 -time | Czas miedzy zapytaniami | 1000 (ms)
--1 | Zapyta serwer tylko raz | ---
+-1 | Odczyta dane z serwera tylko raz | ---
 -int | Dane w postaci liczb całkowitych | ---
 -float | Dane w postaci liczb zmiennoprzecinkowych | ---
 -hex | Dane w systemie szesnastkowym | ---
