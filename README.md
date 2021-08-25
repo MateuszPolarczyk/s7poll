@@ -12,7 +12,7 @@ Przykład
 s7poll 127.0.0.1 -db 107 -r 0 -s 2 -p 0 -i 10 -int -1
 ```
 
-Parametr | Opis | Domyslnie
+Parametr | Opis | Domyślnie
 --- | --- | ---
 adres IP | Adres IP PLC | ---
 -h | Wyświetli pomoc | ---
@@ -21,9 +21,9 @@ adres IP | Adres IP PLC | ---
 -db | Numer bloku danych | 1
 -p | Początkowy adres danych | 0
 -i | Ilość danych do wyświetlenia | 5
--time | Czas miedzy zapytaniami | 1000 (ms)
+-time | Czas między zapytaniami | 1000 (ms)
 -1 | Odczyta dane z serwera tylko raz | ---
 -int | Dane w postaci liczb całkowitych | ---
 -float | Dane w postaci liczb zmiennoprzecinkowych | ---
 -hex | Dane w systemie szesnastkowym | ---
--bin | Dane w systemie dwojkowym | ---
+-bin | Dane w systemie dwójkowym | ---
